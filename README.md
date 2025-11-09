@@ -1,2 +1,0 @@
-# TallerApp
-proyecto completo
